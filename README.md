@@ -11,7 +11,7 @@ Every feature is based on historical context.
 ![Hops](https://github.com/Iver88/Unciv-Brewing/blob/master/Brewing/Preview/Hops.png?raw=true)
 
 #### Tea
-![Tea](https://github.com/Iver88/Unciv-Brewing/blob/master/Brewing/Preview/Hops.png?raw=true)
+![Tea](https://github.com/Iver88/Unciv-Brewing/blob/master/Brewing/Preview/Tea.png?raw=true)
 
 New luxury resource. Grows on grasslands and plains and provide gold.
 
