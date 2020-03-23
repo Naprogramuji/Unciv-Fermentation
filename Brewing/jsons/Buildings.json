@@ -9,14 +9,37 @@
 		"food": 1,
 		"cost": 1,
 		"resourceBonusStats": {
-			"production": 1
+			"food": 1
 		},
 		"requiredNearbyImprovedResources": [
 			"Hops"
 		],
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
-			"Free Great Person"
+			"+33% great person generation in all cities",
+			"Unhappiness from population decreased by 10%",
+			"Culture cost of adopting new Policies reduced by 10%"
+		],
+		"requiredTech": "Brewing"
+	},
+	{
+		"name": "Teahouse",
+		"hurryCostModifier": 25,
+		"happiness": 1,
+		"gold": 1,
+		"culture": 1,
+		"cost": 1,
+		"resourceBonusStats": {
+			"culture": 1
+		},
+		"requiredNearbyImprovedResources": [
+			"Tea"
+		],
+		"uniques": [
+			"Must not be on plains",
+			"Culture in all cities increased by 25%",
+			"Free Social Policy",
+			"Gold from all trade routes +25%"
 		],
 		"requiredTech": "Brewing"
 	}

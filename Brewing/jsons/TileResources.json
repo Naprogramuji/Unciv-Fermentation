@@ -13,5 +13,20 @@
 			"production": 1
 		},
 		"building": "Brewery"
+	},
+	{
+		"name": "Tea",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": [
+			"Hill",
+			"Jungle"
+		],
+		"gold": 1,
+		"improvement": "Tea plantation",
+		"improvementStats": {
+			"gold": 1,
+			"production": 1
+		},
+		"building": "Teahouse"
 	}
 ]
