@@ -33,7 +33,11 @@ New building which decreasing production, but increasing hapiness, food, culture
 
 ## Todo
 - Removing of redundant Philosophy code
+- Czech translation
 - Hops (waiting for tile graphic)
+- Tea and coffee luxury resources
+- Tea farm, coffee farm
+- Teahouse & Coffeehouse
 
 ## Credits
 All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
