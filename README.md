@@ -33,7 +33,6 @@ New building which decreasing production, but increasing hapiness, food, culture
 
 ## Todo
 - Czech translation
-- Hops (waiting for tile graphic)
 - Tea and coffee luxury resources
 - Tea farm, coffee farm
 - Teahouse & Coffeehouse
