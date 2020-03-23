@@ -32,7 +32,6 @@ New building which decreasing production, but increasing hapiness, food, culture
 - [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690937968323723315/GK_Resources_v1.1.zip)
 
 ## Todo
-- Removing of redundant Philosophy code
 - Czech translation
 - Hops (waiting for tile graphic)
 - Tea and coffee luxury resources
