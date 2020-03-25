@@ -41,7 +41,6 @@ New building increasing hapiness, culture and gold income. Must not be on plains
 - [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690937968323723315/GK_Resources_v1.1.zip)
 
 ## Todo
-- Czech translation
 - Removing of redundant Philosophy code in Techs.json
 - Coffee luxury resource
 - Coffee plantation
