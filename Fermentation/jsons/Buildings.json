@@ -20,7 +20,7 @@
 			"Unhappiness from population decreased by 10%",
 			"Culture cost of adopting new Policies reduced by 10%"
 		],
-		"requiredTech": "Brewing"
+		"requiredTech": "Fermentation"
 	},
 	{
 		"name": "Teahouse",
@@ -41,6 +41,6 @@
 			"Free Social Policy",
 			"Gold from all trade routes +25%"
 		],
-		"requiredTech": "Brewing"
+		"requiredTech": "Fermentation"
 	}
 ]

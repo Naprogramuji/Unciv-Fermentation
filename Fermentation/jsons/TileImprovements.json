@@ -4,7 +4,7 @@
 		"turnsToBuild": 6,
 		"gold": 1,
 		"production": 1,
-		"techRequired": "Brewing",
+		"techRequired": "Fermentation",
 		"improvingTech": "Fertilizer",
 		"improvingTechStats": {
 			"gold": 1,
@@ -16,7 +16,7 @@
 		"turnsToBuild": 6,
 		"gold": 1,
 		"production": 1,
-		"techRequired": "Brewing",
+		"techRequired": "Fermentation",
 		"improvingTech": "Fertilizer",
 		"improvingTechStats": {
 			"gold": 1,

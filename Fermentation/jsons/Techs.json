@@ -7,7 +7,7 @@
 		"wonderCost": 250,
 		"techs": [
 			{
-				"name": "Brewing",
+				"name": "Fermentation",
 				"cost": 70,
 				"row": 2,
 				"prerequisites": [
@@ -29,7 +29,7 @@
 				"row": 3,
 				"prerequisites": [
 					"Writing",
-					"Brewing"
+					"Fermentation"
 				],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			}
