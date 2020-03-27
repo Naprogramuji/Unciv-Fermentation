@@ -38,7 +38,6 @@ New building increasing hapiness, culture and gold income. Must not be on plains
 
 ## Recommend modifications
 - [Lands of the Bohemian Crown by Naprogramuji.eu ℠](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown)
-- [Gods & Kings Resources by u-ndefined](https://cdn.discordapp.com/attachments/664739473367760908/690937968323723315/GK_Resources_v1.1.zip)
 
 ## Todo
 - Removing of redundant Philosophy code in Techs.json
