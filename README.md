@@ -37,7 +37,8 @@ New building which decreasing production, but increasing hapiness, food, culture
 New building increasing hapiness, culture and gold income. Must not be on plains. Culture in all cities increased by 25%. Free Social Policy. Gold from all trade routes +25%. Requires Fermentation tech and Hop garden improvement.
 
 ## Recommend modifications
-[![Lands of the Bohemian Crown by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Lands%20of%20the%20Bohemian%20Crown-blue?style=for-the-badge&logo=appveyor)](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown)
+[![Lands of the Bohemian Crown by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Lands%20of%20the%20Bohemian%20Crown-blue?style=for-the-badge&logo=appveyor)](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown)\
+[![All mods](https://img.shields.io/badge/All-mods-blue?style=for-the-badge&logo=appveyor)](https://docs.google.com/spreadsheets/d/1043Ng9ukrL3y8MUXBVl7-C9JsQGnBi5R5mkmS2l7FFg)
 
 ## Todo
 - Removing of redundant Philosophy code in Techs.json
