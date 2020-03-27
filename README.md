@@ -48,10 +48,8 @@ New building increasing hapiness, culture and gold income. Must not be on plains
 - 
 
 ## Credits
-All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
-
-- [Barrel](https://thenounproject.com/search/?q=fermenting&i=217198) by Adricons for Fermentation tech
-- [hop](https://thenounproject.com/search/?q=hop&i=2803410) by Phạm Thanh Lộc for Hops resource
+[![Barrel by Adricons](https://img.shields.io/badge/Adricons-Fermentation%20tech%20logo-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=fermenting&i=217198)\
+[![hop by Phạm Thanh Lộc](https://img.shields.io/badge/Phạm%20Thanh%20Lộc-Hops%20resource%20logo-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=hop&i=2803410)\
 - [Hops](https://thenounproject.com/search/?q=hop&i=1821207) by dDara for Hop garden improvement
 - [pub](https://thenounproject.com/search/?q=brewery&i=2559155) by LAFS for Brewery building
 - [Tea](https://thenounproject.com/search/?q=tea&i=2530821) by Livia Chen for Tea resource
