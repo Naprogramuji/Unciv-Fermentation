@@ -41,7 +41,7 @@ New building increasing hapiness, culture and gold income. Must not be on plains
 [![Other mods](https://img.shields.io/badge/Other%20mods-Feel%20free%20to%20use-blue?style=for-the-badge&logo=appveyor)](https://docs.google.com/spreadsheets/d/1043Ng9ukrL3y8MUXBVl7-C9JsQGnBi5R5mkmS2l7FFg)
 
 ## Contribute
-[![Patreon](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Patreon-blue?style=for-the-badge&logo=patreon)](https://www.patreon.com/tomastriska)
+[![Patreon](https://img.shields.io/badge/Patreon-Contribute-blue?style=for-the-badge&logo=patreon)](https://www.patreon.com/tomastriska)
 
 ## Todo
 - Coffee luxury resource
