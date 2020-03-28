@@ -44,7 +44,6 @@ New building increasing hapiness, culture and gold income. Must not be on plains
 - Coffee luxury resource
 - Coffee plantation
 - Coffeehouse
-- 
 
 ## Credits
 [![Barrel by Adricons](https://img.shields.io/badge/Adricons-Fermentation%20tech-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=fermenting&i=217198)\
