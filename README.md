@@ -37,8 +37,8 @@ New building which decreasing production, but increasing hapiness, food, culture
 New building increasing hapiness, culture and gold income. Must not be on plains. Culture in all cities increased by 25%. Free Social Policy. Gold from all trade routes +25%. Requires Fermentation tech and Hop garden improvement.
 
 ## Recommend modifications
-[![Lands of the Bohemian Crown by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Lands%20of%20the%20Bohemian%20Crown-blue?style=for-the-badge&logo=appveyor)](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown)
-[![Other mods](https://img.shields.io/badge/Other%20mods-Feel%20free%20to%20use-blue?style=for-the-badge&logo=appveyor)](https://docs.google.com/spreadsheets/d/1043Ng9ukrL3y8MUXBVl7-C9JsQGnBi5R5mkmS2l7FFg)
+[![Lands of the Bohemian Crown by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Lands%20of%20the%20Bohemian%20Crown-blue?style=for-the-badge)](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown)
+[![Other mods](https://img.shields.io/badge/Other%20mods-Feel%20free%20to%20use-blue?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1043Ng9ukrL3y8MUXBVl7-C9JsQGnBi5R5mkmS2l7FFg)
 
 ## Donations
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-blue?style=for-the-badge&logo=patreon)](https://www.patreon.com/tomastriska)
@@ -49,10 +49,10 @@ New building increasing hapiness, culture and gold income. Must not be on plains
 - Coffeehouse
 
 ## Credits
-[![Barrel by Adricons](https://img.shields.io/badge/Adricons-Fermentation%20tech%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=fermenting&i=217198)
-[![hop by Phạm Thanh Lộc](https://img.shields.io/badge/Phạm%20Thanh%20Lộc-Hops%20resource%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=hop&i=2803410)
-[![Hops by dDara](https://img.shields.io/badge/dDara-Hop%20garden%20improvement%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=hop&i=1821207)
-[![pub by LAFS](https://img.shields.io/badge/LAFS-Brewery%20building%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=brewery&i=2559155)
-[![Tea by Livia Chen](https://img.shields.io/badge/Livia%20Chen-Tea%20resource%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=tea&i=2530821)
-[![Tea Plantation by BomSymbols](https://img.shields.io/badge/BomSymbols-Tea%20plantation%20improvement%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=tea%20plantation&i=516754)
-[![Tea by Ker'is](https://img.shields.io/badge/Ker'is-Teahouse%20building%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/term/tea/1733779/)
+[![Barrel by Adricons](https://img.shields.io/badge/Adricons-Fermentation%20tech%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=fermenting&i=217198)
+[![hop by Phạm Thanh Lộc](https://img.shields.io/badge/Phạm%20Thanh%20Lộc-Hops%20resource%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=hop&i=2803410)
+[![Hops by dDara](https://img.shields.io/badge/dDara-Hop%20garden%20improvement%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=hop&i=1821207)
+[![pub by LAFS](https://img.shields.io/badge/LAFS-Brewery%20building%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=brewery&i=2559155)
+[![Tea by Livia Chen](https://img.shields.io/badge/Livia%20Chen-Tea%20resource%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=tea&i=2530821)
+[![Tea Plantation by BomSymbols](https://img.shields.io/badge/BomSymbols-Tea%20plantation%20improvement%20icon-blue?style=flat-square)](https://thenounproject.com/search/?q=tea%20plantation&i=516754)
+[![Tea by Ker'is](https://img.shields.io/badge/Ker'is-Teahouse%20building%20icon-blue?style=flat-square)](https://thenounproject.com/term/tea/1733779/)
