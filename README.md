@@ -41,7 +41,6 @@ New building increasing hapiness, culture and gold income. Must not be on plains
 [![All mods](https://img.shields.io/badge/All-mods-blue?style=for-the-badge&logo=appveyor)](https://docs.google.com/spreadsheets/d/1043Ng9ukrL3y8MUXBVl7-C9JsQGnBi5R5mkmS2l7FFg)
 
 ## Todo
-- Removing of redundant Philosophy code in Techs.json
 - Coffee luxury resource
 - Coffee plantation
 - Coffeehouse
