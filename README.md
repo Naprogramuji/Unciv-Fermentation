@@ -46,10 +46,10 @@ New building increasing hapiness, culture and gold income. Must not be on plains
 - Coffeehouse
 
 ## Credits
-[![Barrel by Adricons](https://img.shields.io/badge/Adricons-Fermentation%20tech-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=fermenting&i=217198)\
-[![hop by Phạm Thanh Lộc](https://img.shields.io/badge/Phạm%20Thanh%20Lộc-Hops%20resource-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=hop&i=2803410)\
-[![Hops by dDara](https://img.shields.io/badge/dDara-Hop%20garden%20improvement-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=hop&i=1821207)\
-[![pub by LAFS](https://img.shields.io/badge/LAFS-Brewery%20building-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=brewery&i=2559155)\
-[![Tea by Livia Chen](https://img.shields.io/badge/Livia%20Chen-Tea%20resource-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=tea&i=2530821)\
-[![Tea Plantation by BomSymbols](https://img.shields.io/badge/BomSymbols-Tea%20plantation%20improvement-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=tea%20plantation&i=516754)\
-[![Tea by Ker'is](https://img.shields.io/badge/Ker'is-Teahouse%20building-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/term/tea/1733779/)
+[![Barrel by Adricons](https://img.shields.io/badge/Adricons-Fermentation%20tech%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=fermenting&i=217198)\
+[![hop by Phạm Thanh Lộc](https://img.shields.io/badge/Phạm%20Thanh%20Lộc-Hops%20resource%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=hop&i=2803410)\
+[![Hops by dDara](https://img.shields.io/badge/dDara-Hop%20garden%20improvement%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=hop&i=1821207)\
+[![pub by LAFS](https://img.shields.io/badge/LAFS-Brewery%20building%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=brewery&i=2559155)\
+[![Tea by Livia Chen](https://img.shields.io/badge/Livia%20Chen-Tea%20resource%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=tea&i=2530821)\
+[![Tea Plantation by BomSymbols](https://img.shields.io/badge/BomSymbols-Tea%20plantation%20improvement%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/search/?q=tea%20plantation&i=516754)\
+[![Tea by Ker'is](https://img.shields.io/badge/Ker'is-Teahouse%20building%20icon-blue?style=flat-square&logo=appveyor)](https://thenounproject.com/term/tea/1733779/)
