@@ -2,12 +2,12 @@
 	{
 		"name": "Brewery",
 		"hurryCostModifier": 25,
-		"happiness": 1,
+		"happiness": 2,
 		"production": -2,
 		"gold": 1,
-		"culture": 1,
-		"food": 1,
-		"cost": 1,
+		"culture": 3,
+		"food": 2,
+		"cost": 100,
 		"resourceBonusStats": {
 			"food": 1
 		},
@@ -15,20 +15,17 @@
 			"Hops"
 		],
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
-			"+33% great person generation in all cities",
-			"Unhappiness from population decreased by 10%",
-			"Culture cost of adopting new Policies reduced by 10%"
+			"+33% great person generation in all cities"
 		],
 		"requiredTech": "Fermentation"
 	},
 	{
 		"name": "Teahouse",
 		"hurryCostModifier": 25,
-		"happiness": 1,
+		"happiness": 3,
 		"gold": 1,
-		"culture": 1,
-		"cost": 1,
+		"culture": 3,
+		"cost": 100,
 		"resourceBonusStats": {
 			"culture": 1
 		},
@@ -38,7 +35,6 @@
 		"uniques": [
 			"Must not be on plains",
 			"Culture in all cities increased by 25%",
-			"Free Social Policy",
 			"Gold from all trade routes +25%"
 		],
 		"requiredTech": "Fermentation"

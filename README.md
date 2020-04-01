@@ -31,10 +31,10 @@ Improvement for Tea luxury resource. Required for Teahouse building. Unlocked by
 ### New buidings
 
 #### Brewery
-New building which decreasing production, but increasing hapiness, food, culture and gold income. Remove extra unhappiness from annexed cities. +33% great person generation in all cities. Unhappiness from population decreased by 10%. Culture cost of adopting new Policies reduced by 10%. Requires Fermentation tech and Hop garden improvement.
+New building which decreasing production, but increasing hapiness, food, culture and gold income. +33% great person generation in all cities. Requires Fermentation tech and Hop garden improvement.
 
 #### Teahouse
-New building increasing hapiness, culture and gold income. Must not be on plains. Culture in all cities increased by 25%. Free Social Policy. Gold from all trade routes +25%. Requires Fermentation tech and Hop garden improvement.
+New building increasing hapiness, culture and gold income. Must not be on plains. Culture in all cities increased by 25%. Gold from all trade routes +25%. Requires Fermentation tech and Hop garden improvement.
 
 ## Recommend modifications
 [![Lands of the Bohemian Crown by Naprogramuji.eu ℠](https://img.shields.io/badge/Naprogramuji.eu%20%E2%84%A0-Lands%20of%20the%20Bohemian%20Crown-blue?style=for-the-badge)](https://github.com/Iver88/Unciv-Lands-of-the-Bohemian-Crown)

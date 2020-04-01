@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Hop garden",
-		"turnsToBuild": 6,
+		"turnsToBuild": 7,
 		"gold": 1,
 		"production": 1,
 		"techRequired": "Fermentation",
@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "Tea plantation",
-		"turnsToBuild": 6,
+		"turnsToBuild": 4,
 		"gold": 1,
 		"production": 1,
 		"techRequired": "Fermentation",
